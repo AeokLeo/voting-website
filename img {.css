@@ -1,0 +1,41 @@
+img {
+    border-radius: o 20px 0 20px;
+    width: 75px;
+    height: 75px;
+}
+
+body {
+    background-color: azure;
+    text-decoration: aqua;
+
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: limegreen;
+    text-align: center;
+    text-transform: capitalize;
+    text-shadow: 30pt;
+    text-emphasis: none;
+    text-overflow: ellipsis;
+    text-decoration-style: wavy;
+
+}
+button {
+    font-size: 18px;
+    background-color: purple;
+    color: white;
+    border border-radius: 30px ;
+    margin: 0;
+}
+
+
+text {
+    font-size: 18px;
+    text color: blue;
+}
+
+video {
+    border-radius: 0 20px 0 20px ;
+    margin: auto;
+}
